@@ -1,207 +1,154 @@
 # FedEx Smalls Process Optimization
 
-## Business Process Improvement Project
-
-This project demonstrates how business analysis and process optimization techniques can improve an existing package sorting operation through automation, workflow redesign, and operational analytics.
-
-The objective was to analyze the current business process, identify inefficiencies, and design a future-state process that improves productivity, accuracy, and operational performance.
+> A business process optimization case study demonstrating workflow analysis, process mapping, operational analytics, and automation recommendations.
 
 ---
 
-# Business Problem
+## Project Overview
 
-The existing small package process relied heavily on manual labor, resulting in:
+This project evaluates an existing small package sorting process and proposes an optimized future-state workflow designed to improve operational efficiency, reduce manual bottlenecks, and increase package throughput.
 
+The analysis applies business analysis methodologies to identify inefficiencies within the current process and develop a technology-driven solution that aligns with operational goals.
+
+---
+
+## Business Objective
+
+The objective of this project was to answer one question:
+
+**How can package sorting operations become faster, more accurate, and more efficient while reducing manual labor and operational delays?**
+
+---
+
+## Current-State Analysis
+
+The existing process relies heavily on manual labor throughout the package sorting operation.
+
+### Challenges Identified
+
+- Manual package sorting
 - Human sorting errors
 - Package misloads
-- Bottlenecks
+- Conveyor bottlenecks
 - Overflowing sorting bins
-- Lower employee productivity
-- Safety concerns
-- Delayed deliveries
-
-The process needed to become more efficient while maintaining package accuracy.
+- Reduced employee productivity
+- Safety concerns from package overflow
+- Delayed package processing
 
 ---
 
-# Current Workflow
+## Future-State Solution
 
-The current workflow consisted of:
+The redesigned workflow introduces automation and smart technology to improve efficiency across the operation.
 
-Truck Arrival
-
-↓
-
-Unload Packages
-
-↓
-
-Unload Conveyor
-
-↓
-
-Feeder
-
-↓
-
-Manual Sorter
-
-↓
-
-Package Scanner
-
-↓
-
-Bagging
-
-↓
-
-Load Belt
-
-↓
-
-Loader
-
-↓
-
-Truck Delivery
-
-### Existing Process Diagram
-
-![Current Workflow](Existing_FedEx_Smalls_Workflow.png)
-
----
-
-# Proposed Solution
-
-The redesigned workflow introduces automation and smart technology to eliminate many manual bottlenecks.
-
-Improvements include:
+### Proposed Improvements
 
 - Automated package sorting
-- Smart bins
-- Barcode recognition
-- Automatic package routing
-- Fullness monitoring
-- Better labor allocation
-- Reduced package misloads
-
-### Proposed Workflow Diagram
-
-![Optimized Workflow](FedEx_Smalls_Optimization_Workflow.png)
+- Smart sorting bins
+- Barcode-driven routing
+- Real-time bin capacity monitoring
+- Improved package tracking
+- Reduced manual handling
+- Improved labor utilization
+- Lower package misloads
 
 ---
 
-# Business Analysis
+## Business Analysis Methods Used
 
-## Problems Identified
-
-- Human error
-- Slow manual sorting
-- Package overflow
-- Limited visibility of bin capacity
-- High rework
-- Labor inefficiencies
-
----
-
-## Proposed Improvements
-
-- Automated sorting
-- Smart bins
-- Real-time monitoring
-- Better package routing
-- Automated decision making
-- Improved workflow
-
----
-
-# Key Performance Indicators (KPIs)
-
-The project evaluates:
-
-- Packages Sorted per Hour
-- Packages Bagged per Hour
-- Misloads per Day
-- Labor Utilization
-- Throughput
-- Operational Efficiency
-
----
-
-# Expected Results
-
-- Reduced human error
-- Improved package accuracy
-- Faster sorting
-- Increased throughput
-- Better employee productivity
-- Approximately 20% increase in production
-
----
-
-# Business Analyst Skills Demonstrated
-
-- Business Process Modeling (BPMN)
-- Workflow Analysis
+- Business Process Mapping
+- Current-State vs Future-State Analysis
+- Workflow Optimization
 - Process Improvement
+- Operational Analysis
 - Root Cause Analysis
-- Operational Analytics
-- KPI Analysis
-- Business Intelligence Concepts
-- Systems Thinking
-- Continuous Improvement
-- Lean Process Design
+- KPI Identification
+- Business Requirements Analysis
 
 ---
 
-# Tools
+## Key Performance Indicators
+
+| KPI | Business Value |
+|---|---|
+| Packages Sorted per Hour | Measures productivity |
+| Packages Bagged per Hour | Measures labor efficiency |
+| Misloads per Day | Measures quality |
+| Throughput | Measures operational capacity |
+| Labor Utilization | Measures workforce efficiency |
+
+---
+
+## Expected Business Impact
+
+- Increased operational efficiency
+- Reduced manual bottlenecks
+- Improved package accuracy
+- Reduced package misloads
+- Improved employee productivity
+- Increased package throughput
+- Better operational decision-making
+
+---
+
+## Process Maps
+
+### Existing Workflow
+
+![Existing Workflow](existing_fedEx_smalls_workflow.png)
+
+---
+
+### Optimized Workflow
+
+![Optimized Workflow](fedEx_smalls_optimization_workflow.png)
+
+---
+
+## Skills Demonstrated
+
+- Business Analysis
+- Business Process Modeling
+- Process Mapping
+- Workflow Analysis
+- Operational Analytics
+- Process Improvement
+- Lean Thinking
+- Business Intelligence Concepts
+- KPI Development
+- Systems Analysis
+
+---
+
+## Tools Used
 
 - Microsoft Visio
 - Microsoft Word
 - Business Process Modeling
-- Process Analysis
-- Workflow Optimization
+- Process Documentation
+- Workflow Design
 
 ---
 
-# Repository Contents
+## Repository Contents
 
-```
-📂 report
-    Small_Package_Process_Optimization_Report.docx
-
-📂 diagrams
-    Existing_FedEx_Smalls_Workflow.png
-    FedEx_Smalls_Optimization_Workflow.png
+```text
+Small_Package_Process_Optimization_Report.docx
+existing_fedEx_smalls_workflow.png
+fedEx_smalls_optimization_workflow.png
+README.md
 ```
 
 ---
 
-# Full Report
+## About This Project
 
-The complete business analysis report is included in this repository.
-
-It contains:
-
-- Current State Analysis
-- Future State Design
-- Business Requirements
-- Benchmarking
-- Data Analysis
-- Process Models
-- Implementation Plan
-- Business Case
-- References
+This project was completed as part of graduate-level business analytics coursework and demonstrates practical application of business analysis principles to improve enterprise operations through process redesign and data-driven decision making.
 
 ---
 
-# Author
+## Contact
 
-Nathan Corpus
+**Nathan Corpus**
 
-Business Analytics Project
-
-University Coursework
-
-2026
+Aspiring Business Analyst | Data Analyst | Operations Analyst
