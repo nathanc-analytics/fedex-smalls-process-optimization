@@ -130,13 +130,16 @@ The redesigned workflow introduces automation and smart technology to improve ef
 
 ---
 
-## Repository Contents
+# Repository Contents
 
-```text
-Small_Package_Process_Optimization_Report.docx
-existing_fedEx_smalls_workflow.png
-fedEx_smalls_optimization_workflow.png
-README.md
+## 📊 Workflow Diagrams
+
+- [Existing Workflow](diagrams/Existing_FedEx_Smalls_Workflow.png)
+- [Optimized Workflow](diagrams/FedEx_Smalls_Optimization_Workflow.png)
+
+## 📄 Business Process Report
+
+- [Small Package Process Optimization Report](report/Small_Package_Process_Optimization_Report.docx)
 ```
 
 ---
