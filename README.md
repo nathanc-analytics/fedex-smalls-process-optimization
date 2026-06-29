@@ -95,13 +95,13 @@ The redesigned workflow introduces automation and smart technology to improve ef
 
 ### Existing Workflow
 
-![Existing Workflow](diagram/existing_fedEx_smalls_workflow.png)
+![Existing Workflow](diagrams/existing_fedEx_smalls_workflow.png)
 
 ---
 
 ### Optimized Workflow
 
-![Optimized Workflow](diagram/fedEx_smalls_optimization_workflow.png)
+![Optimized Workflow](diagrams/fedEx_smalls_optimization_workflow.png)
 
 ---
 
