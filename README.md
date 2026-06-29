@@ -134,8 +134,8 @@ The redesigned workflow introduces automation and smart technology to improve ef
 
 ## 📊 Workflow Diagrams
 
-- [Existing Workflow](diagrams/Existing_FedEx_Smalls_Workflow.png)
-- [Optimized Workflow](diagrams/FedEx_Smalls_Optimization_Workflow.png)
+- [Existing Workflow](diagrams/existing_fedEx_smalls_workflow.png)
+- [Optimized Workflow](diagrams/fedEx_smalls_optimization_workflow.png)
 
 ## 📄 Business Process Report
 
